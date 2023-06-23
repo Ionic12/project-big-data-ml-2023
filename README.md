@@ -69,7 +69,7 @@ plt.show()
 </div>
 
 ## Machine Learning Scenarios Flowchart
-<img src="PPT/Frame 11.png" />
+<img src="PPT/Frame 24.png" />
 
 ## Machine Learning Scenarios Implementation
 <img src="docs/skenario_1.png" />
@@ -140,7 +140,7 @@ plt.show()
 </div>
 
 ## Machine Learning Scenarios Flowchart
-<img src="PPT/Frame 18.png" />
+<img src="PPT/Frame 30.png" />
 
 ## Machine Learning Scenarios Implementation
 <img src="docs/skenario_2.png" />
