@@ -70,6 +70,7 @@ plt.show()
 
 ## Machine Learning Scenarios Flowchart
 <img src="PPT/Frame 24.png" />
+<p>Flowchart ini menjelaskan cara pengolahan data yang berfokus pada skenario pertama yaitu analisa mengenai rata-rata GDP pada setiap negara pada saat pandemic COVID-19.</p>
 
 ## Machine Learning Scenarios Implementation
 <img src="docs/skenario_1.png" />
@@ -141,6 +142,7 @@ plt.show()
 
 ## Machine Learning Scenarios Flowchart
 <img src="PPT/Frame 30.png" />
+<p>Flowchart ini menjelaskan cara pengolahan data yang berfokus pada skenario kedua yaitu analisa mengenai perbandingan kebijakan pemerintah dan dampaknya yang bisa digunakan untuk membandingkan kebijakan pemerintah yang diambil di berbagai negara untuk menghadapi pandemic COVID-19, dan dampaknya terhadap angka kasus dan kematian. </p>
 
 ## Machine Learning Scenarios Implementation
 <img src="docs/skenario_2.png" />
